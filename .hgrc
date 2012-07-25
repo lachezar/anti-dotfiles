@@ -1,0 +1,15 @@
+[ui]
+username = Lachezar Yankov <lachezar.yankov@lendo.se>
+ssh = ssh -C
+
+[extensions]
+prompt = /Users/lacyan/Library/hg-prompt/prompt.py
+hgshelve = /Users/lacyan/hgshelve/hgshelve.py
+purge =
+mq =
+hgext.churn=
+pager=
+graphlog=
+color=
+fetch=
+record=
